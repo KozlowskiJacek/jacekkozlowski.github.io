@@ -1,0 +1,209 @@
+{
+  "navbar": {
+    "home": "Główna",
+    "about": "O mnie",
+    "skills": "Umiejętności",
+    "projects": "Projekty",
+    "services": "Usługi",
+    "feedback": "Recenzje",
+    "contact": "Kontakt"
+  },
+
+  "home": {
+    "hello": "Cześć, to ja!",
+    "im": "Jestem",
+    "text": "Na co dzień jestem junior full-stack developerem i content creatorem. Tworzę aplikacje webowe, strony internetowe oraz automatyzuje procesy. Poza kodowaniem zajmuję się tworzeniem treści – od profesjonalnych filmów reklamowych, przez luźniejszy content jak vlogi czy gaming, aż po rolki promocyjne dla firm i marek. Uwielbiam budować coś z niczego. Realizacja zadań, które pomogą w rozwijaniu biznesu i przy okazji niosą radość to dla mnie główny cel. Lubię współtworzyć innowacyjne projekty – jeśli masz pomysł, działajmy razem!",
+    "btn_get_in_touch": "Skontaktuj się za mną"
+  },
+
+  "about": {
+    "title_hello": "Witam",
+    "title_why": "Dlaczego Full Stack",
+    "title_how": "Content Creator",
+    "title_what": "Czym się kieruje",
+    "title_after": "Po Godzinach",
+    "about": "O",
+    "me": "Mnie",
+    "title": "Uwielbiam tworzyć coś z niczego",
+    "text": "🚀 Moja droga do programowania i tworzenia treści nie była typowa – zaczynałem w technikum samochodowym, ale szybko zdałem sobie sprawę, że nie chcę spędzić życia w warsztacie, naprawiając cudze auta. Motoryzacja wciąż mnie fascynuje, ale tylko w moich własnych projektach, bez presji klientów. Zamiast tego odkryłem, że pasjonuje mnie tworzenie – zarówno w kodzie, jak i w mediach. Uwielbiam budować aplikacje, automatyzować procesy i tworzyć angażujące treści. Studiowałem informatykę dziennie, ale szybko przekonałem się, że wolę uczyć się rzeczy praktycznych, które mogę od razu wykorzystać – dlatego przeszedłem na zaoczne i zacząłem intensywnie rozwijać swoje umiejętności jako programista i content creator.",
+    "see_more": "Czytaj dalej...",
+    "why": "Dlaczego",
+    "full_stack": "Full Stack?",
+    "text2": "💻 Nie mogłem zdecydować, czy chcę iść w backend czy frontend, więc wybór był prosty – full-stack. Uwielbiam zarówno projektowanie intuicyjnych interfejsów, jak i budowanie wydajnych systemów oraz skryptów, gdzie dosłownie kilka linijek kodu może oszczędzić kilka dni pracy. Tworzę aplikacje webowe, strony internetowe i automatyzacje procesów zgodnie z wytycznymi klienta, ale przede wszystkim z myślą o użytkownikach – to oni na co dzień korzystają z mojej pracy, dlatego zawsze stawiam na funkcjonalność, wygodę i realną wartość.",
+    "how": "Jak zostałem",
+    "content_creator": "Content Creator'em?",
+    "text3": "🎬 Jako content creator trafiłem do branży trochę przypadkiem, ale szybko stało się to moją drugą pasją. Z czasem nauczyłem się, jak wykorzystywać kreatywność oraz magię montażu w sposób świadomy i skuteczny. Rozwinąłem umiejętności w zakresie pisania scenariuszy, prowadzenia social mediów oraz tworzenia strategii marketingowych. W tej roli również buduję coś z niczego – tworzę kreatywne filmy i reklamy, które działają, oraz treści, które angażują odbiorców. Równie bliski jest mi luźniejszy content, taki jak gaming 🎮, vlogi 🎥 czy filmy o bardziej artystycznym charakterze.",
+    "what_im":"Czym się",
+    "guided_by":"Kieruje?",
+    "text4": "💡 Rozwojem – zarówno swoim, jak i osób oraz firm, z którymi współpracuję. Nie robię rzeczy „na sztukę” – każda strona powinna przynosić wartość, każdy film powinien mieć wydźwięk, każda aplikacja powinna rozwiązywać konkretny problem, a każda automatyzacja realnie usprawniać pracę. Słucham potrzeb użytkowników i szukam najlepszych rozwiązań, bo tworzenie to proces, a każdy szczegół ma znaczenie.",
+    "after": "🔥 Po",
+    "hour":"Godzinach",
+    "text5": "🎲 Lubię gry – zarówno komputerowe, jak i planszówki. Mam w planach stworzyć coś swojego, głównie dla frajdy, ale może kiedyś przerodzi się to w coś większego. 🏋️‍♂️ Sport to moja odskocznia od pracy – najczęściej wybieram siłownię i Muay Thai. Pomaga mi się zresetować i oderwać od ekranu, a przy okazji dobrze wpływa na zdrowie. 🐱 Mam kota o imieniu Leon – najlepszy współlokator, choć zdarza mu się siedzieć na klawiaturze. 📹 W 2025 chcę spróbować sił na YouTube – jeśli się odważę, wrzucę tu link do kanału. 🤝 Skoro dotarłeś aż tutaj, to dzięki! Może Cię zaciekawiłem, a może po prostu lubisz poznawać ludzi – tak czy inaczej, fajnie, że jesteś.",
+    "questions": "📩 Masz pytania? Napisz!",
+    "bye": "Do usłyszenia! 🚀"
+  },
+
+  "skills": {
+    "my": "Moje",
+    "skills": "Umiejętności",
+    "database": "Bazy danych",
+    "creative": "Kreatywność",
+    "react": {
+      "text": "Skończyłem kursy Reacta, w których nauczyłem się m.in. React Routera, React Query, Tailwind CSS i TypeScript. Wszystkie projekty – zarówno te mniejsze, jak i większe – realizowałem samodzielnie, co wyrobiło we mnie nawyk szukania informacji w dokumentacji i na forach, a także dostosowywania rozwiązań do własnych potrzeb. Lubię trafiać na nowe rozwiązania, bo dzięki nim ciągle się uczę i staram się trzymać standardów programowania.",
+      "certificate": "Frontend - Certyfikat",
+      "app": "📌 Aplikacja ma pomóc firmom w zarządzaniu zespołami i eliminowaniu chaosu komunikacyjnego. Każdy pracownik komunikuje się wyłącznie w ramach swojego zespołu, a kontakty między zespołami odbywają się jedynie na poziomie kierowników. Dzięki temu menedżerowie mogą sprawnie przydzielać zadania i mieć pełny wgląd w postępy swoich zespołów."
+    },
+    "python": {
+      "text": "Zaczynałem jako samouk, a gdy opanowałem podstawy, postanowiłem zapisać się na kursy Backend Python Developer oraz Full Stack Python Developer. Dzięki nim nie tylko rozwinąłem swoje umiejętności w Pythonie, ale również zyskałem głębsze zrozumienie takich narzędzi jak Git, bazy danych, Figma, a nawet Unix. Poznałem frameworki takie jak Flask i Django.",
+      "certificate_1": "Full Stack Python - Certyfikat",
+      "certificate_2": "Python Back-end Developer - Certyfikat",
+      "script": "🛠 Skrypty które faktycznie zostały użyte",
+      "solo": "📌 Samodzielnie napisałem dwa skrypty, które zostały wdrożone w firmie, w której pracuję. Pierwszy to skrypt do web scrapingu, używający biblioteki BeautifulSoup. Dzięki niemu mogłem analizować strony internetowe, na których wystawiała się konkurencja. Drugi skrypt wykorzystywał Pandas i służył do modyfikacji pliku CSV zawierającego informacje GPS o samochodach służbowych. Dzięki temu rozwiązaniu skróciłem czas pracy z 4-5 dni do zaledwie dwóch kliknięć."
+    },
+    "tailwind": {
+      "text": "Tailwind poznałem na kursie z Web Front-end Developer i bardzo polubiłem to narzędzie do stylizacji. Dzięki niemu mogę szybko i efektywnie tworzyć responsywne strony internetowe, które są zgodne z najnowszymi standardami. Używam Tailwind CSS w większości swoich projektów, co pozwala mi na łatwe dostosowywanie stylów do potrzeb użytkowników.",
+      "certificate": "Full Stack Python - Certyfikat",
+      "main": "🛠 Tailwind – mój główny stylowy wybór",
+      "text_2": "📌 Tailwinda używam we wszystkich moich projektach i dobrze znam zarówno jego zalety, jak i wady. Dzięki temu wiem, jak korzystać z niego w sposób, który rzeczywiście ułatwia pracę, zamiast ją komplikować."
+    },
+    "database_pop": {
+      "text": "Dzięki studiom i kursowi Full Stack Developer odkryłem potencjał baz danych i zrozumiałem, jak ważną rolę odgrywają w aplikacjach. Używam ich w praktyce i znam zarówno SQL, jak i NoSQL. Wiem, kiedy używać jednego lub drugiego rozwiązania, a także jak je optymalizować. Dzięki temu mogę tworzyć wydajne aplikacje, które działają szybko i sprawnie.",
+      "certificate": "Full Stack Python - Certyfikat",
+      "mongodb": "📌 Moja aplikacja używa MongoDB do przechowywania danych o użytkownikach oraz dane dotyczące zadań dla poszczególnego zespołu."
+    },
+    "creativity": {
+      "text": " Łączę pracę kreatywną z analitycznym myśleniem – montaż filmów i programowanie. Dzięki temu mam unikalne podejście do tworzenia stron i aplikacji, gdzie estetyka i funkcjonalność idą w parze. Ta symbioza pozwala mi lepiej projektować zarówno od strony wizualnej, jak i technicznej.",
+      "certificate": "Jedna z moich prac",
+      "main": "🛠 Kreatywność – klucz do sukcesu",
+      "text_2": "📌 Jako montażysta nauczyłem się, czym jest timing, jak dobierać muzykę do filmu, pisać teksty i wykorzystywać AI do usprawniania różnych procesów. Poznałem także zasady pisania scenariuszy, planowania ujęć, ustawiania światła, kadrowania, color gradingu i kompozycji."
+    },
+    "git": {
+      "text": "Na co dzień korzystam z Git, co pozwala mi sprawnie zarządzać kodem zarówno w projektach indywidualnych, jak i zespołowych (projekty na studia). Tworzę i zarządzam branchami, co ułatwia równoległą pracę nad różnymi funkcjonalnościami. Dbam o czytelność repozytorium, stosując dobre praktyki w commitach i pull requestach.",
+      "git": "Mój Github",
+      "main": "🛠 Git – kontrola wersji i praca zespołowa",
+      "text_2": "📌 Mam doświadczenie w rozwiązywaniu konfliktów w kodzie oraz pracy z code review, co pomaga w utrzymaniu wysokiej jakości projektów. Korzystam z GitHub/GitLab, a także podstawowych funkcji CI/CD, które automatyzują proces wdrażania i testowania aplikacji. Dzięki temu mogę skutecznie kontrolować wersje kodu i usprawniać współpracę w zespołach."
+    },
+    
+    "close_btn":"Zamknij"
+  },
+
+  "services": {
+    "my": "Moje",
+    "services": "Usługi",
+    "title": "Kod. Kreacja. Automatyzacja.",
+    "web_app": "Nowoczesne strony i aplikacje webowe   Funkcjonalność, która sprzedaje.",
+    "web_app_text": "Projektuję i tworzę strony oraz aplikacje webowe dopasowane do Twoich potrzeb. Wsłuchuję się w Twoje oczekiwania, ale zawsze pamiętam, że to ✨użytkownicy✨ są najważniejsi!",
+    "video_editor" : "Reklamy, vlogi, gaming, rolki – tworzę filmy, które angażują, a do tego zaopiekuję się Twoimi social media!",
+    "video_editor_text" : "Tworzę materiały od A do Z – piszę scenariusze, kreuję sceny, nagrywam ujęcia, dopracowuję kolory i dodaję ✨magię montażu✨, aby stworzyć materiały skrojoną specjalnie dla Twoich odbiorców! 🎬🚀",
+    "automate" : "Mniej klikania, więcej efektów – automatyzacja, która oszczędza Twój czas i pieniądze.",
+    "automate_text" : "Jeśli jakiś proces zajmuje Twojemu pracownikowi zbyt wiele czasu, który mógłby przeznaczyć na bardziej produktywne zadania niż np. klikanie w tabelki, stworzę automatyzację, która zaoszczędzi Ci czas i pieniądze! 💡💸",
+    "btn_learn_more": "Dowiedz się więcej!"
+  },
+
+  "web_app": {
+    "nav_modern": "Nowoczesne Strony",
+    "nav_discussion": "Rozmowa",
+    "nav_visual": "Projekt wizualny",
+    "nav_development": "Kodowanie ",
+    "nav_presentation": "Prezentacja",
+    "nav_support": "Wsparcie ",
+    "title1": "Nowoczesne strony i aplikacje webowe",
+    "title2": "Funkcjonalność, która sprzedaje",
+    "title_text": "Projektuję i tworzę strony oraz aplikacje webowe dopasowane do Twoich potrzeb. Wsłuchuję się w Twoje oczekiwania, ale zawsze pamiętam, że to użytkownicy są najważniejsi. Sprawdź, jak wygląda współpraca ze mną i jak przebiega proces realizacji Twojego projektu.",
+    "talk": "Rozmowa i",
+    "analysis": "analiza potrzeb",
+    "text3": "Pierwszy krok to luźne spotkanie, na którym omawiamy Twoje oczekiwania. Chcę dowiedzieć się, czym zajmuje się Twoja firma lub marka osobista, jakie wartości reprezentuje, jakie kolory i styl najlepiej ją oddają oraz jaki jest cel strony lub aplikacji. To moment, w którym wspólnie ustalamy wstępny szkic projektu – co ma się znaleźć na stronie, jak ma działać aplikacja i jak powinna komunikować się z użytkownikami. Ustalamy również, kto będzie odpowiedzialny za treści na stronę – czy to ja mam je stworzyć, czy są już gotowe, a może będziemy współpracować z inną osobą. To samo dotyczy grafik i zdjęć – omówimy, czy masz już materiały, czy potrzebujesz ich przygotowania.",
+    "project": "Projekt wizualny i",
+    "concept": "koncepcja działania",
+    "text4": "Na podstawie naszej rozmowy przygotowuję wstępny projekt wizualny strony lub aplikacji oraz jej schemat działania. Nie musisz go akceptować od razu – to etap, w którym wprowadzanie zmian jest wskazane. Nie zawsze się z Tobą zgodzę, bo moim celem jest stworzenie rozwiązania funkcjonalnego i intuicyjnego dla Twoich użytkowników, ale zawsze biorę pod uwagę Twoją wizję. Przy prezentacji projektu wizualnego od razu wycenię również koszt całej realizacji. Cena nie zmieni się od tego momentu, chyba że nastąpią krytyczne sytuacje, takie jak ogromna zmiana w końcowej fazie projektu.",
+    "coding": "Kodowanie i",
+    "implementation": "realizacaj",
+    "text5": "Po zaakceptowaniu projektu wizualnego przechodzę do pracy nad stroną lub aplikacją. Na tym etapie mamy nieco mniej kontaktu, ale zawsze jestem dostępny, jeśli pojawią się nowe pomysły lub potrzeba wprowadzenia zmian. Jeśli projekt jest bardziej złożony, możemy umówić się na kolejne spotkanie w celu omówienia postępów.",
+    "presentation": "Prezentacja",
+    "ready": "Gotowego projektu",
+    "text6": "To moment, w którym pokazuję Ci efekt naszej pracy – Twoją stronę lub aplikację! Jeżeli coś Ci się nie podoba, drobne poprawki można wprowadzić od razu. Chcę, żebyś był w pełni zadowolony z projektu, dlatego liczę na Twoją szczerą opinię.",
+    "support": "Wsparcie",
+    "after": "po wdrożeniu",
+    "text7": "Nie kończę współpracy w momencie przekazania projektu! Jeśli potrzebujesz pomocy w doborze hostingu, optymalizacji SEO lub masz pytania dotyczące działania strony, zawsze możesz na mnie liczyć. A jeśli w przyszłości będziesz potrzebować nowej strony lub aplikacji – po prostu daj mi znać, na pewno się dogadamy! 😊"
+  },
+
+  "video": {
+    "nav_profesional": "Profesjonalne Filmy",
+    "nav_ads": "Reklamy",
+    "nav_vlogs": "Vlogi",
+    "nav_gaming": "Gaming",
+    "nav_reels": "Reels",
+    "nav_how": "How It Works",
+    "title1": "Profesjonalne Filmy i Social Media,",
+    "title2": "Które Przyciągają Odbiorców",
+    "text": "Chcesz, aby Twoja marka wyróżniała się w mediach społecznościowych? Tworzę angażujące filmy, które przyciągają uwagę i budują silne relacje z Twoimi odbiorcami.",
+    "ads": "🎥 Reklamy i",
+    "films": "Filmy Promocyjne",
+    "text1": "Krótko, dynamicznie i na temat – reklama powinna przyciągać uwagę w pierwszych sekundach. Tworzę filmy, które skutecznie prezentują Twoją markę, produkt lub usługę. Ty powiedz mi co chcesz przekazać Twoim klientom, a ja dopilnuje, żeby Twój komunikat dotarł do największaj ilości potecjalnych klientów",
+    "text1_montage": "✅ Nie montuję przypadkowych ujęć – tworzę przemyślaną historię. Skupiam się na tym, co chcesz przekazać. Każdy film to nie tylko obraz, ale przede wszystkim komunikat, który ma działać na odbiorcę.",
+    "text1_highlights": "✅ Podkreślam to, co wyróżnia Twój produkt, usługę lub markę. Analizuję, czym się zajmujesz, co sprawia, że jesteś najlepszy i jak najlepiej to pokazać w dynamicznym, angażującym materiale.",
+    "text1_one": "✅ Jeden film – wiele możliwości. Tworzę materiały, które sprawdzą się zarówno na stronach internetowych, jak i w social mediach. Dopasowuję je tak, by jeden film mógł być skutecznie promowany w różnych formatach – od szerokiego ekranu po pionowe rolki.",
+    "text1_plan": "✅ Zanim nacisnę 'nagrywaj' – planujemy. Przed rozpoczęciem pracy w pełni rozumiem Twój produkt, markę i przekaz, jaki chcesz oddać. Pomogę Ci stworzyć coś, co nie tylko wygląda dobrze, ale także wyróżnia się i zostaje w pamięci.",
+    "text1_ideal": "Idealne dla osób, które chcą zwiększyć swoją widoczność w sieci i wyróżnić się na tle konkurencji.",
+    "vlogs": "🎬 Vlogi i",
+    "storytelling": "Storytelling",
+    "text_2": "Autentyczność to klucz do budowania zaangażowanej społeczności. Pomogę Ci tworzyć vlogi, które nie tylko dokumentują, ale opowiadają historię w sposób interesujący i angażujący.",
+    "text_2_strategy": "✅ Strategia dostosowana do vloga – Nie mogę spędzić całego dnia z Tobą, dlatego to Ty nagrywasz, a ja zajmuję się resztą. Otrzymuję surowy materiał i dzięki magii montażu tworzę dla Ciebie filmy dopasowane do Twojego stylu i klimatu.",
+    "text_2_story": "✅ Układam historię każdego odcinka – Każdy vlog to nie tylko nagrane momenty, ale przemyślana narracja. Tworzę spójne i angażujące opowieści, które przyciągają widzów.",
+    "text_2_speed": "✅ Regularność i szybkość mają kluczowe znaczenie – W świecie vlogów liczy się stała publikacja. Jeśli dostarczysz mi materiały na ostatnią chwilę, zrobię wszystko, by jak najszybciej dostarczyć gotowy film – oczywiście bez utraty jakości. W ekstremalnych sytuacjach dam Ci znać, jeśli lepiej będzie opóźnić publikację o jeden dzień, zamiast wrzucać coś na siłę.",
+    "text_2_collaboration": "✅ Pełna optymalizacja współpracy – Jeśli chcesz jeszcze bardziej usprawnić proces, mogę zająć się publikacją filmów na Twoim kanale. Najpierw wrzucę je jako niepubliczne do Twojej akceptacji, a potem opublikuję dla Twoich widzów. Prowadzę takie kanały od 2 lat w trzech językach, więc doskonale wiem, jak to działa.",
+    "text_2_ideal": "Sprawdza się świetnie dla twórców internetowych, marek osobistych i firm chcących pokazać kulisy swojej pracy.",
+    "gameing": "🎮 Gameing",
+    "content": "Content",
+    "text_3": "Tworzysz treści gamingowe i chcesz przyciągnąć większą publiczność? Zajmę się montażem Twojego materiału, tak by widzowie wracali po więcej.",
+    "text_3_dynamic": "✅ Dynamiczny montaż highlightów – Szybkie cięcia, najlepsze momenty i płynna narracja, która utrzyma uwagę widzów od początku do końca.",
+    "text_3_effect": "✅ Efekty, animacje i sound design – Dodaję dźwięki, memiczne efekty i kreatywne przejścia, które wzmacniają emocje i humor Twoich materiałów.",
+    "text_3_adaption": "✅ Dopasowanie do gry i społeczności – Każda gra ma swój klimat, a każda społeczność swoje inside joke’i. Tworzę montaż zgodny z Twoim stylem i tym, co bawi Twoich widzów.",
+    "text_3_platforms": "✅ Treści na każdą platformę – Pełne gameplaye, highlighty, a może shorty, które przyciągną nowych widzów? Dostosowuję formaty do YouTube, TikToka, Instagrama i innych platform, by Twoje treści trafiały jak najszerzej.",
+    "text_3_ideal": "Twoja strategia, Twój vibe – Nawiązania popkulturowe, cięty humor, dynamiczny rytm? Zmontuję materiały w taki sposób, by idealnie pasowały do Ciebie i Twojej społeczności. Możemy stworzyć pełne let's playe, wyciągnąć najlepsze momenty ze streama albo przerobić klipy na shorty, które viralowo przyciągną nowych widzów.",
+    "reels": "📱 Reelsy i ",
+    "tiktok": "TikToki",
+    "text_4": "Krótkie formaty rządzą internetem! Jeśli chcesz zdobywać viralowe zasięgi na Instagramie i TikToku, tworzę materiały, które zatrzymują uwagę i angażują użytkowników.",
+    "text_4_dynamic": "✅ Dynamiczny montaż zgodny z trendami – Tworzę materiały, które przyciągają uwagę od pierwszej sekundy, ale nie są jedynie chwilowym viralem – stawiam na jakość, która przetrwa próbę czasu.",
+    "text_4_creative": "✅ Kreatywne przejścia i efekty – Dodaję unikalne efekty wizualne i dźwiękowe, które nie tylko wpisują się w trendy, ale też podkreślają Twój styl i wyróżniają Cię na tle innych twórców.",
+    "text_4_sound": "✅ Muzyka i sound design na najwyższym poziomie – Wykorzystuję odpowiednio dobraną muzykę, efekty dźwiękowe i rytm montażu, by film miał jeszcze większy impact i wciągał widza do samego końca.",
+    "text_4_cringe": "✅ Optymalizacja pod algorytmy i długowieczność treści – Trendy zmieniają się szybko, ale dobre filmy zostają. Dbam o to, by Twoje materiały nie tylko dobrze się klikały, ale też były estetyczne, dopracowane i nie powodowały cringe’u po kilku miesiącach.",
+    "text_4_ideal": "Nie robię pustych virali. Nawet krótkie formy, jak rolki i shorty, mogą być wartościowe. Skupiam się na tym, by każdy materiał miał jakość, która będzie Cię promować nie tylko teraz, ale i w przyszłości.",
+    "how": "🚀 Jak to wygląda w",
+    "practice": "Praktyce",
+    "text_5_create": "🔹 Tworzę od A do Z – od scenariusza, przez nagrania, po finalny montaż.",
+    "text_5_style": "🔹 Dostosowuję styl do Twojej branży i grupy docelowej.",
+    "text_5_support": "🔹 Pomagam w budowaniu strategii contentowej dla Twojego profilu.",
+    "text_5_ideal": "Chcesz wyróżnić się w sieci? Niezależnie od tego, czy budujesz markę osobistą, rozwijasz firmę, czy po prostu nagrywasz dla funu – pomogę Ci stworzyć materiały, które przyciągną uwagę! 🎥✨ Skontaktuj się ze mną, a razem stworzymy coś wyjątkowego. 🚀",
+    "questions": "📩 Masz pytania? Napisz!"
+  },
+
+
+  "projects": {
+    "my": "Moje",
+    "projects": "Projekty",
+    "gpsmaker": "Skrypt wykorzystywujący bibliotekę pandas do przetwarzania plików csv z danymi GPS.",
+    "webscraping": "Mój pierwszy skrypt, który był wykorzystany przez innych",
+    "aureliahr": "Projekt na inżynierkę - aplikacja do zarządzania zespołami. Planuję ją dalej rozwijać do MVP zbadać rynek i może opublikować.",
+    "cooking": "Tworzę super aplikcję daj mi jeszcze trochę czasu 🔥"
+  },
+
+  "feedback": {
+    "they_trust": "Zaufali",
+    "me": "Mi",
+    "text1": "Pełen profesjonalizm, ale na luzie – dokładnie tak, jak lubię. Strona działa, wygląda super, a całość przebiegła bez stresu. Polecam każdemu!",
+    "text4": "Mega współpraca! Pomysł, wykonanie i podejście na 100%. Dzięki za ogarnięcie wszystkiego – nie musiałem się niczym martwić."
+  },
+
+  "contact": {
+    "lets": "Współpracujmy",
+    "collaborate": "Razem",
+    "write": "Napisz do mnie wiadomość, a ja odpowiem w przeciągu 1️⃣ dnia roboczego",
+    "full_name": "Imię i nazwisko",
+    "email": "Email",
+    "subject": "Temat",
+    "message": "Twoja wiadomość...",
+    "btn_send": "Wyślij"
+  }
+
+}

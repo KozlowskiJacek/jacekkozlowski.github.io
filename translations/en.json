@@ -1,0 +1,205 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "skills": "My Skills",
+    "projects": "Projects",
+    "services": "Services",
+    "feedback": "Feedback",
+    "contact": "Contact"
+  },
+
+  "home": {
+    "hello": "Hello, its me!",
+    "im": "I'm",
+    "text": "I am a full-stack developer and content creator. I build web applications, websites, and automate processes. Beyond coding, I create various types of content – from professional advertising films and casual vlogs to gaming videos and promotional reels for businesses and brands. I love building something from nothing. Completing tasks that help grow a business while bringing joy is my main goal. I enjoy collaborating on innovative projects – if you have an idea, let’s make it happen together!",
+    "btn_get_in_touch": "Get in touch"
+  },
+
+  "about": {
+    "title_hello": "Hello",
+    "title_why": "Why Full Stack",
+    "title_how": "Content Creator",
+    "title_what": "Guided by",
+    "title_after": "After Hours",
+    "about": "About",
+    "me": "Me",
+    "title": "I love creating something out of nothing.",
+    "text": "🚀 My journey into programming and content creation wasn't typical – I started in an automotive technical school but quickly realized that I didn’t want to spend my life in a workshop fixing other people’s cars. I'm still passionate about the automotive world, but only when it comes to my own projects, without client pressure. Instead, I discovered that I'm passionate about creating – both in code and media. I love building applications, automating processes, and crafting engaging content. I initially studied computer science full-time, but I soon realized that I prefer learning practical skills that I can immediately apply – so I switched to part-time studies and began intensively developing my skills as a programmer and content creator.",
+    "see_more": "See more...",
+    "why": "Why",
+    "full_stack": "Full Stack?",
+    "text2": "💻 I couldn't decide whether to go for backend or frontend, so the choice was simple – full-stack. I love designing intuitive interfaces as much as building efficient systems and scripts where just a few lines of code can save days of work. I create web applications, websites, and process automation according to client requirements, but above all, with users in mind – they are the ones who use my work daily, so I always prioritize functionality, convenience, and real value.",
+    "how": "How did I become",
+    "content_creator": "a Content Creator?",
+    "text3": "🎬 I entered the content creation world somewhat by accident, but it quickly became my second passion. Over time, I’ve learned how to channel my creativity and editing skills to create meaningful and effective content. I’ve developed skills in scriptwriting, social media management, and marketing strategy. In this role, I also get to build something from nothing – crafting creative videos and ads that deliver results, and producing content that engages audiences. I’m equally passionate about more relaxed formats like gaming 🎮, vlogs 🎥, and videos with a more artistic touch.",
+    "what_im": "What am I",
+    "guided_by": "Guided by?",
+    "text4": "💡 Growth – both my own and that of the people and companies I work with. I don’t create things just for show – every website should bring value, every video should convey a message, every app should solve a real problem, and every automation should genuinely improve workflow. I listen to user needs and look for the best solutions, because creation is a process, and every detail matters.",
+    "after": "🔥 After",
+    "hour": "Hours",
+    "text5": "🎲 I enjoy both video games and board games. I'm planning to create one of my own – mostly for fun, but who knows, maybe it’ll grow into something bigger. 🏋️‍♂️ Sports help me clear my head – I usually go for the gym and Muay Thai. It’s a great way to reset and take a break from sitting at a desk. 🐱 I have a cat named Leon – chill roommate, though he occasionally sits on my keyboard. 📹 In 2025, I’d like to give YouTube a shot – if I go for it, I’ll drop the link here. 🤝 If you’ve made it this far – thanks! Maybe I caught your interest, or maybe you're just cool like that – either way, glad you're here.",
+    "questions": "📩 Have questions? Write to me!",
+    "bye": "Talk soon! 🚀"
+  },
+
+"skills": {
+  "my": "My",
+  "skills": "Skills",
+  "database": "Databases",
+  "creative": "Creativity",
+  "react": {
+    "text": "I completed React courses where I learned React Router, React Query, Tailwind CSS, and TypeScript. I carried out all projects – both small and large – independently, which taught me to look for information in documentation and forums and to adapt solutions to my own needs. I enjoy discovering new solutions because they constantly help me learn and strive to follow programming standards.",
+    "certificate": "Frontend - Certificate",
+    "app": "📌 The app is designed to help companies manage teams and eliminate communication chaos. Each employee communicates only within their team, and inter-team contacts occur solely at the manager level. This allows managers to efficiently assign tasks and have full insight into their teams’ progress."
+  },
+  "python": {
+    "text": "I started out self-taught, and after mastering the basics, I enrolled in Backend Python Developer and Full Stack Python Developer courses. Thanks to them, I not only improved my Python skills but also gained a deeper understanding of tools like Git, databases, Figma, and even Unix. I learned frameworks like Flask and Django.",
+    "certificate_1": "Full Stack Python - Certificate",
+    "certificate_2": "Python Back-end Developer - Certificate",
+    "script": "🛠 Scripts that were actually used",
+    "solo": "📌 I independently wrote two scripts that were implemented in the company I work for. The first is a web scraping script using the BeautifulSoup library. It allowed me to analyze websites where competitors were listing their offers. The second script used Pandas and was for modifying a CSV file containing GPS information about company vehicles. This solution reduced the work time from 4–5 days to just two clicks."
+  },
+  "tailwind": {
+    "text": "I discovered Tailwind in a Web Front-end Developer course and quickly became a fan of this styling tool. It allows me to efficiently build responsive websites that meet modern standards. I use Tailwind CSS in most of my projects, which lets me easily adapt styles to user needs.",
+    "certificate": "Full Stack Python - Certificate",
+    "main": "🛠 Tailwind – my go-to styling choice",
+    "text_2": "📌 I use Tailwind in all my projects and am familiar with both its strengths and weaknesses. This allows me to use it in a way that truly simplifies work rather than complicating it."
+  },
+  "database_pop": {
+    "text": "Thanks to university and the Full Stack Developer course, I discovered the potential of databases and understood how vital they are in applications. I use them in practice and know both SQL and NoSQL. I understand when to use each and how to optimize them. This enables me to build efficient, fast, and smooth-running applications.",
+    "certificate": "Full Stack Python - Certificate",
+    "mongodb": "📌 My application uses MongoDB to store user data and task information for each team."
+  },
+  "creativity": {
+    "text": "I combine creative work with analytical thinking – video editing and programming. This gives me a unique approach to building websites and apps, where aesthetics and functionality go hand in hand. This synergy allows me to design both visually and technically.",
+    "certificate": "One of my works",
+    "main": "🛠 Creativity – the key to success",
+    "text_2": "📌 As an editor, I’ve learned about timing, matching music to video, writing scripts, and using AI to streamline processes. I’ve also explored screenwriting, shot planning, lighting, framing, color grading, and composition."
+  },
+  "git": {
+    "text": "I use Git daily, which helps me manage code efficiently in both individual and team projects (university projects). I create and manage branches, which supports parallel work on different features. I keep repositories clear by following best practices for commits and pull requests.",
+    "git": "My Github",
+    "main": "🛠 Git – version control and teamwork",
+    "text_2": "📌 I have experience resolving merge conflicts and working with code reviews, which helps maintain high project quality. I use GitHub/GitLab as well as basic CI/CD features that automate deployment and testing. This allows me to effectively manage code versions and enhance team collaboration."
+  },
+  "close_btn": "Close"
+},
+
+
+
+"web_app": {
+  "nav_modern": "Modern Website",
+  "nav_discussion": "Discussion",
+  "nav_visual": "Visual Design",
+  "nav_development": "Development",
+  "nav_presentation": "Presentation",
+  "nav_support": "Support",
+  "title1": "Modern Websites and Web Applications",
+  "title2": "Functionality That Sells",
+  "title_text": "I design and create websites and web applications tailored to your needs. I listen to your expectations, but I always remember that users come first. Check out how working with me looks and how the project realization process unfolds.",
+  "talk": "Discussion and",
+  "analysis": "needs analysis",
+  "text3": "The first step is an informal meeting where we discuss your expectations. I want to learn about your business or personal brand, the values it represents, the colors and style that best reflect it, and the purpose of the website or application. This is the moment when we outline the initial project sketch – what should be on the site, how the application should function, and how it should interact with users. We also determine who will be responsible for the website content – whether I should create it, whether it's already prepared, or if we’ll collaborate with another person. The same applies to graphics and photos – we will discuss whether you already have materials or need them to be prepared.",
+  "project": "Visual design and",
+  "concept": "functional concept",
+  "text4": "Based on our discussion, I prepare an initial visual design of the website or application along with its functional structure. You don’t have to approve it right away – this is the stage where making changes is encouraged. I won’t always agree with you, as my goal is to create a functional and intuitive solution for your users, but I always take your vision into account. During the visual design presentation, I will also provide a cost estimate for the entire project. The price will not change from this point unless critical situations arise, such as a massive change in the final project phase.",
+  "coding": "Development and",
+  "implementation": "implementation",
+  "text5": "After the visual design is approved, I move on to working on the website or application. At this stage, we have slightly less contact, but I am always available if new ideas arise or changes need to be made. If the project is more complex, we can schedule another meeting to discuss progress.",
+  "presentation": "Presentation of",
+  "ready": "the finished project",
+  "text6": "This is the moment when I show you the results of our work – your website or application! If something doesn’t meet your expectations, minor adjustments can be made immediately. I want you to be fully satisfied with the project, so I appreciate your honest feedback.",
+  "support": "Support",
+  "after": "after launch",
+  "text7": "My collaboration with you doesn’t end when I hand over the project! If you need help choosing hosting, SEO optimization, or have any questions about how the site works, you can always count on me. And if you ever need a new website or application – just let me know, we’ll surely work something out! 😊"
+},
+
+"video": {
+  "title1": "Professional Films and Social Media,",
+  "title2": "That Attract Audiences",
+  "text": "Do you want your brand to stand out on social media? I create engaging videos that capture attention and build strong relationships with your audience.",
+  "ads": "🎥 Ads and",
+  "films": "Promotional Films",
+  "text1": "Short, dynamic, and to the point – an ad should grab attention in the first few seconds. I create films that effectively showcase your brand, product, or service. You tell me what you want to communicate to your customers, and I’ll make sure your message reaches the widest possible audience.",
+  "text1_montage": "✅ I don’t just edit random shots – I create a well-thought-out story. I focus on what you want to convey. Every film is not just an image, but a message that impacts the audience.",
+  "text1_highlights": "✅ I highlight what makes your product, service, or brand stand out. I analyze what you do, what makes you the best, and how to showcase it in a dynamic, engaging video.",
+  "text1_one": "✅ One film – many possibilities. I create materials that work on websites as well as social media. I adapt them so that one video can be effectively promoted in different formats – from wide-screen to vertical reels.",
+  "text1_plan": "✅ Before I press 'record' – we plan. Before starting work, I fully understand your product, brand, and the message you want to convey. I’ll help you create something that not only looks good but also stands out and stays memorable.",
+  "text1_ideal": "Perfect for those who want to increase their online visibility and stand out from the competition.",
+  "vlogs": "🎬 Vlogs and",
+  "storytelling": "Storytelling",
+  "text_2": "Authenticity is key to building an engaged community. I’ll help you create vlogs that not only document but tell stories in an interesting and engaging way.",
+  "text_2_strategy": "✅ Strategy tailored to vlogging – I can’t spend the whole day with you, so you record, and I handle the rest. You send me raw footage, and with the magic of editing, I create films that match your style and vibe.",
+  "text_2_story": "✅ I structure the story of each episode – Every vlog is not just recorded moments but a well-thought-out narrative. I create cohesive and engaging stories that draw in viewers.",
+  "text_2_speed": "✅ Regularity and speed are crucial – In the world of vlogs, consistent publishing is key. If you send me last-minute materials, I’ll do my best to deliver a finished video as quickly as possible – without sacrificing quality. In extreme cases, I’ll let you know if it’s better to delay by a day rather than rush something out.",
+  "text_2_collaboration": "✅ Full optimization of collaboration – If you want to streamline the process, I can handle uploading videos to your channel. First, I’ll upload them as unlisted for your approval, then publish them for your audience. I’ve been managing such channels in three languages for two years, so I know how it works.",
+  "text_2_ideal": "Perfect for online creators, personal brands, and businesses that want to show behind-the-scenes content.",
+  "gameing": "🎮 Gaming",
+  "content": "Content",
+  "text_3": "Are you creating gaming content and want to attract a larger audience? I’ll edit your footage so that viewers keep coming back for more.",
+  "text_3_dynamic": "✅ Dynamic highlight editing – Fast cuts, the best moments, and smooth narration that keeps viewers engaged from start to finish.",
+  "text_3_effect": "✅ Effects, animations, and sound design – I add sounds, meme effects, and creative transitions that enhance emotions and humor in your content.",
+  "text_3_adaption": "✅ Adapting to the game and community – Every game has its own vibe, and every community has its inside jokes. I tailor the editing to your style and what entertains your audience.",
+  "text_3_platforms": "✅ Content for every platform – Full gameplay videos, highlights, or short clips to attract new viewers? I adapt formats for YouTube, TikTok, Instagram, and other platforms to maximize your reach.",
+  "text_3_ideal": "Your strategy, your vibe – Pop culture references, sharp humor, dynamic pacing? I edit content in a way that perfectly matches you and your community. We can create full let's plays, extract the best moments from streams, or turn clips into viral short videos.",
+  "reels": "📱 Reels and ",
+  "tiktok": "TikToks",
+  "text_4": "Short-form content dominates the internet! If you want to gain viral reach on Instagram and TikTok, I create videos that grab attention and engage users.",
+  "text_4_dynamic": "✅ Dynamic editing in line with trends – I create content that captures attention in the first second but isn’t just a fleeting viral hit – I focus on quality that stands the test of time.",
+  "text_4_creative": "✅ Creative transitions and effects – I add unique visual and sound effects that not only fit trends but also highlight your style and make you stand out.",
+  "text_4_sound": "✅ Music and sound design at the highest level – I use carefully selected music, sound effects, and editing rhythm to make your video even more impactful and immersive.",
+  "text_4_cringe": "✅ Optimization for algorithms and long-term content – Trends change quickly, but good videos last. I ensure that your content is not only highly clickable but also aesthetically pleasing, polished, and free of cringe even months later.",
+  "text_4_ideal": "I don’t create empty viral content. Even short formats like reels and shorts can be valuable. I focus on ensuring that every piece of content has quality that will promote you not just now but also in the future.",
+  "how": "🚀 How It Works in",
+  "practice": "Practice",
+  "text_5_create": "🔹 I create from A to Z – from scriptwriting to filming to final editing.",
+  "text_5_style": "🔹 I adapt the style to your industry and target audience.",
+  "text_5_support": "🔹 I help develop a content strategy for your profile.",
+  "text_5_ideal": "Do you want to stand out online? Whether you're building a personal brand, growing a business, or just creating content for fun – I’ll help you produce videos that capture attention! 🎥✨ Contact me, and let’s create something amazing together. 🚀",
+  "questions": "📩 Have questions? Message me!"
+},
+
+
+  "services": {
+    "my": "My",
+    "services": "Services",
+    "title": "Code. Creation. Automation.",
+    "web_app": "Modern websites and web apps – functionality that sells.",
+    "web_app_text": "I design and create websites and web applications tailored to your needs. I listen to your expectations, but always remember that ✨users✨ are the most important!",
+    "video_editor" : "Ads, vlogs, gaming, reels – I create videos that engage, and I’ll take care of your social media too!",
+    "video_editor_text" : "I create content from A to Z – I write scripts, create scenes, shoot footage, adjust colors, and add ✨editing magic✨ to craft a content tailored specifically for your audience! 🎬🚀",
+    "automate" : "Less clicking, more results – automation that saves your time and money.",
+    "automate_text" : "If a process takes too much time for your employee, time they could spend on more productive tasks like working with data instead of clicking through tables, I’ll create automation that will save you time and money! 💡💸",
+    "btn_learn_more": "Learn more!"
+  },
+
+  "projects": {
+    "my": "My",
+    "projects": "Projects",
+    "gpsmaker": "A script using the pandas library to process CSV files with GPS data.",
+    "webscraping": "My first script that ended up being used by others.",
+    "aureliahr": "An engineering thesis project – a team management app. I plan to keep developing it into an MVP, explore the market, and maybe publish it.",
+    "cooking": "I'm creating an awesome app – just give me a bit more time 🔥"
+  },
+
+  "feedback": {
+    "they_trust": "They Trust",
+    "me": "Me",
+    "text1": "Full professionalism, but with a relaxed vibe – just the way I like it. The website works great, looks awesome, and the whole process was stress-free. Highly recommend!",
+    "text4": "Awesome collaboration! The concept, execution, and attitude were 100%. Thanks for handling everything – I didn’t have to worry about a thing."
+
+  },
+  
+  "contact": {
+    "lets": "Let's",
+    "collaborate": "Collaborate",
+    "write": "Write me an message and I will response within 1️⃣ business day",
+    "full_name": "Full name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Your message...",
+    "btn_send": "Send"
+  }
+
+}
