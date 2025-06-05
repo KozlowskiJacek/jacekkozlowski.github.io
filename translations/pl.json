@@ -5,7 +5,7 @@
     "skills": "Umiejętności",
     "projects": "Projekty",
     "services": "Usługi",
-    "feedback": "Recenzje",
+    "feedback": "Zaufali mi",
     "contact": "Kontakt"
   },
 
@@ -25,7 +25,7 @@
     "about": "O",
     "me": "Mnie",
     "title": "Uwielbiam tworzyć coś z niczego",
-    "text": "🚀 Moja droga do programowania i tworzenia treści nie była typowa – zaczynałem w technikum samochodowym, ale szybko zdałem sobie sprawę, że nie chcę spędzić życia w warsztacie, naprawiając cudze auta. Motoryzacja wciąż mnie fascynuje, ale tylko w moich własnych projektach, bez presji klientów. Zamiast tego odkryłem, że pasjonuje mnie tworzenie – zarówno w kodzie, jak i w mediach. Uwielbiam budować aplikacje, automatyzować procesy i tworzyć angażujące treści. Studiowałem informatykę dziennie, ale szybko przekonałem się, że wolę uczyć się rzeczy praktycznych, które mogę od razu wykorzystać – dlatego przeszedłem na zaoczne i zacząłem intensywnie rozwijać swoje umiejętności jako programista i content creator.",
+    "text": "🚀 Moja droga do branży IT była nietypowa – zaczynałem w technikum samochodowym. Choć ostatecznie nie związałem się z motoryzacją zawodowo, wiele mnie nauczyła. Gdy motocykl nie odpalał, trzeba było samemu dojść do tego, co nie działa – to uczyło logicznego myślenia i rozwiązywania problemów bez oczywistych podpowiedzi. Dziś widzę w tym silne podobieństwo do pracy z kodem. Motoryzacja została moim hobby, a zawodowo zajmuję się tworzeniem aplikacji webowych oraz treści cyfrowych. Jestem inżynierem informatyki i kontynuuję studia magisterskie w trybie zaocznym. Równolegle rozwijam się jako full-stack developer i content creator. Pracuję z technologiami takimi jak Python, Django, JavaScript/TypeScript, React oraz SQL/NoSQL. Nawet jeśli trafi mi się zadanie, którego na pierwszy rzut oka nie potrafię wykonać – nie odpuszczam. Sięgam po dokumentację, szukam podobnych przypadków, korzystam z dostępnych narzędzi i źródeł, by znaleźć rozwiązanie i jednocześnie poszerzyć swoją wiedzę. Lubię to uczucie, kiedy uczę się czegoś nowego w tematach, które naprawdę mnie interesują. Poza programowaniem tworzę treści wideo – od montażu po realizację całych projektów – i pomagam klientom budować skuteczną obecność w internecie. Łączę wiedzę techniczną z kreatywnością i lubię działać tam, gdzie technologia spotyka się z komunikacją i realną wartością dla użytkownika. Cenię ciągły rozwój, praktykę i partnerską współpracę opartą na zaangażowaniu i jakości.",
     "see_more": "Czytaj dalej...",
     "why": "Dlaczego",
     "full_stack": "Full Stack?",
@@ -192,6 +192,8 @@
     "they_trust": "Zaufali",
     "me": "Mi",
     "text1": "Pełen profesjonalizm, ale na luzie – dokładnie tak, jak lubię. Strona działa, wygląda super, a całość przebiegła bez stresu. Polecam każdemu!",
+    "text2": "Miałem okazję współpracować z Jackiem kilka razy w ciągu ostatniego roku i z uznaniem obserwowałem, ile pracy wkłada w naukę oraz jak duże postępy zrobił. Przeszedł drogę od prostego skryptu w Pythonie generującego PDF z HTML, do stworzenia aplikacji w React z backendem w Django. Potrafi samodzielnie znajdować rozwiązania, uczy się szybko i nie boi się wyzwań. Jako kierownik zespołu IT jestem przekonany, że z takim podejściem szybko stanie się wartościowym członkiem każdego zespołu.",
+    "text3": "Współpraca z Jackiem była absolutnie bezproblemowa i profesjonalna od początku do końca. Strona internetowa, którą dla mnie stworzył, przerosła moje oczekiwania – jest nowoczesna, przejrzysta, responsywna i dokładnie odzwierciedla charakter mojej marki. Duże wrażenie zrobiło na mnie indywidualne podejście, szybki kontakt i świetne zrozumienie moich potrzeb. Każda poprawka była wdrażana błyskawicznie, a cały proces przebiegał sprawnie i w przyjaznej atmosferze. Z czystym sumieniem polecam współpracę z Jackiem Kozłowskim każdemu, kto szuka solidnego i kreatywnego projektanta stron internetowych. To inwestycja, która naprawdę się opłaca!",
     "text4": "Mega współpraca! Pomysł, wykonanie i podejście na 100%. Dzięki za ogarnięcie wszystkiego – nie musiałem się niczym martwić."
   },
 
